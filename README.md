@@ -66,3 +66,6 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)ðŸ–¥ï¸
 <a href="http://www.github.com/Scorpionzaa555"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Scorpionzaa555&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ----------
+
+# Credit
+<a href="https://github.com/danielcranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />&nbsp;&nbsp;</a>  danielcranney
