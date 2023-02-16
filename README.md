@@ -52,6 +52,7 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)🖥�
 
 
 
+<!--
 # Badges
 ### 📊 My GitHub Stats 📊
 
@@ -64,7 +65,31 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)🖥�
 ### 📈 Commits Graph 📈
 
 <a href="http://www.github.com/Scorpionzaa555"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Scorpionzaa555&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+-->
 
+<h2 align="center">
+
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+</h2>
+
+ 
+
+<br>
+
+<p align = "center">
+
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Scorpion555&show_icons=true&theme=radical&line_height=27">
+
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpion555&hide=python,html,css,java&theme=radical">
+
+</p>
+
+<p align = "center">
+
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Scorpion555&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+
+</p>
 ----------
 
 # Credit
