@@ -96,6 +96,14 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)ðŸ–¥ï¸
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Scorpion555&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 
 </p>
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=OOP&theme=radical)](https://github.com/Scorpionzaa555/OOP)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=Data&theme=radical)](https://github.com/Scorpionzaa555/Data)
+
+
 ----------
 
 # Credit
