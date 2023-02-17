@@ -79,10 +79,10 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)ðŸ–¥ï¸
 
 <p align = "center">
 
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Scorpion555&show_icons=true&theme=radical&line_height=27">
-
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Scorpionzaa555&show_icons=true&theme=radical&line_height=27">
+&nbsp;&nbsp;&nbsp;&nbsp;
   <!--
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpion555&hide=python,html,css,java&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpionzaa555&hide=python,html,css,java&theme=radical">
   -->
   
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpionzaa555&theme=radical"> 
@@ -98,9 +98,8 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)ðŸ–¥ï¸
 </p>
 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=OOP&theme=radical)](https://github.com/Scorpionzaa555/OOP)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=OOP&theme=radical)](https://github.com/Scorpionzaa555/OOP)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=Data&theme=radical)](https://github.com/Scorpionzaa555/Data)
 
 
