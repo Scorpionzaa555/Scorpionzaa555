@@ -81,7 +81,13 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)ðŸ–¥ï¸
 
   <img  src = "https://github-readme-stats.vercel.app/api?username=Scorpion555&show_icons=true&theme=radical&line_height=27">
 
+  <!--
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpion555&hide=python,html,css,java&theme=radical">
+  -->
+  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpionzaa555&theme=radical"> 
+             
+
 
 </p>
 
