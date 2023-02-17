@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h5 align="right">1st Year Undergraduate Student at IT Faculty.</h5>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-💫My name is Thanawan Chaemsathian, or you can call me "Mark🪬".
+💫My name is Thanawan Chaemsathian, or you can call me "Mark😎".
 I'm an undergraduate student at the Faculty of Information Technology (IT)🖥️ at King Monkut's Institute of Technology Ladkrabang (KMITL) in Thailand❤️.
 
 
@@ -27,7 +27,7 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)🖥�
 ##
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-สวัสดีครับ ผมชื่อนายธนาวัลย์ แช่มเสถียร ชื่อเล่นว่า "มาร์ค🪬" ครับ🙂<br>
+สวัสดีครับ ผมชื่อนายธนาวัลย์ แช่มเสถียร ชื่อเล่นว่า "มาร์ค😎" ครับ🙂<br>
 ปัจจุบันผมเป็นนักศึกษาระดับปริญญาตรีอยู่ที่ คณะเทคโนโลยีสารสนเทศ (IT)🖥️ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (สจล.) ประเทศไทยครับ❤️
 
 
