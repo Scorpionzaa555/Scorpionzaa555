@@ -97,7 +97,14 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)🖥�
 
 </p>
 
+### 📈 Commits Graph 📈
 
+<a href="http://www.github.com/Scorpionzaa555"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Scorpionzaa555&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+----------
+
+# Support Me Here
+<a href="https://www.buymeacoffee.com/Scorpionzaa555"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=OOP&theme=radical)](https://github.com/Scorpionzaa555/OOP)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=Data&theme=radical)](https://github.com/Scorpionzaa555/Data)
