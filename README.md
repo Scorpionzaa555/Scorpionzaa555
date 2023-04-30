@@ -109,8 +109,16 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)ðŸ–¥ï¸
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=OOP&theme=radical)](https://github.com/Scorpionzaa555/OOP)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=Data&theme=radical)](https://github.com/Scorpionzaa555/Data)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=OOP&theme=radical)](https://github.com/Scorpionzaa555/OOP)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=Data&theme=radical)](https://github.com/Scorpionzaa555/Data) -->
+
+<a href="https://github.com/Scorpionzaa555/OOP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=OOP&theme=radical" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Scorpionzaa555/Data">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=Data&theme=radical" />
+</a>
 
 
 ----------
