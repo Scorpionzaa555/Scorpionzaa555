@@ -115,7 +115,7 @@ I'm an undergraduate student at the Faculty of Information Technology (IT)ðŸ–¥ï¸
 <a href="https://github.com/Scorpionzaa555/OOP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=OOP&theme=radical" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--&nbsp;&nbsp;-->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--&nbsp;-->
 <a href="https://github.com/Scorpionzaa555/Data">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Scorpionzaa555&repo=Data&theme=radical" />
 </a>
